@@ -12,5 +12,5 @@ This project segments mall customers based on their age, annual income, and spen
 - Python (pandas, matplotlib, seaborn, scikit-learn)
 
 ## 📁 Files
-- `customer_segmentation.ipynb` – full notebook with code & graphs
+- `Customer Segmentation with K-Means.ipynb` – full notebook with code & graphs
 - `Customer_Segmentation_Report.pdf` – final summary report
